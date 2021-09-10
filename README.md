@@ -6,4 +6,4 @@ Skeleton for writing document with markdown and pandoc.
 
 ## How to use
 
-Setup title, authors, styles, etc in `init.md`. Write contents in `sections/{somefolder}/{blah.md}`. Run `./make.sh` to generate pdf.
+Setup title, authors, styles, etc in `init.md`. Write contents in `sections/{somefolder}/{blah.md}`. Run `make` to generate pdf.
